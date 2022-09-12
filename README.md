@@ -1,1 +1,1 @@
-#This is my first project created this way so don't judge
+Kind of a joke website
