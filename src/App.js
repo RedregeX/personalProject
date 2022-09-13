@@ -1,5 +1,6 @@
 import mainimg from './images/shrek.jfif';
 import './App.css';
+import Main from './components/Main';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <p className="headerTextxLink">Welcome to my personal website, kinda just messing around.</p>
         <img src={mainimg} className="App-logo" alt="shrek" />
       </header>
+      <Main />
     </div>
   );
 }
