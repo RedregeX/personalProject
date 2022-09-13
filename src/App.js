@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p><a href="https://github.com/RedregeX" className="headerTextxLink">github.com/RedregeX</a></p>
         <p className="headerTextxLink">Welcome to my personal website, kinda just messing around.</p>
-        <img src={mainimg} className="App-logo" alt="logo" />
+        <img src={mainimg} className="App-logo" alt="shrek" />
       </header>
     </div>
   );
