@@ -71,3 +71,6 @@
         box-shadow: 0 10px 0 #698b57, inset 0 10px 0 #698b57;
     }
 }
+.p-title-value{
+    color: red;
+}
